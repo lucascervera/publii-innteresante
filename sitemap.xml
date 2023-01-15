@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lucascervera.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://innteresante.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://lucascervera.com/</loc>
+<loc>https://innteresante.com/</loc>
 </url>
 <url>
-<loc>https://lucascervera.com/home/</loc>
+<loc>https://innteresante.com/home/</loc>
 <lastmod>2023-01-15T12:39:22+01:00</lastmod>
 <image:image>
-<image:loc>https://lucascervera.com/media\posts\9/Lucas-Cervera.png</image:loc>
+<image:loc>https://innteresante.com/media\posts\9/Lucas-Cervera.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://lucascervera.com/innteresante/</loc>
+<loc>https://innteresante.com/innteresante/</loc>
 <lastmod>2023-01-15T19:36:09+01:00</lastmod>
 <image:image>
-<image:loc>https://lucascervera.com/media\posts\10/artboard-1-1920x1080-63c4420c476c44c2afdb5a8c2x.png</image:loc>
+<image:loc>https://innteresante.com/media\posts\10/artboard-1-1920x1080-63c4420c476c44c2afdb5a8c2x.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://lucascervera.com/media\posts\10/Garanta_de_Aprendizaje_no_Soporfero_200x200.png</image:loc>
+<image:loc>https://innteresante.com/media\posts\10/Garanta_de_Aprendizaje_no_Soporfero_200x200.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://lucascervera.com/lucas-rodriguez-cervera-privacy-policy/</loc>
+<loc>https://innteresante.com/lucas-rodriguez-cervera-privacy-policy/</loc>
 <lastmod>2023-01-15T11:29:15+01:00</lastmod>
 </url>
 </urlset>
