@@ -3,7 +3,7 @@
     <title>innteresante.com</title>
     <link href="https://innteresante.com/feed.xml" rel="self" />
     <link href="https://innteresante.com" />
-    <updated>2023-04-25T13:33:02+02:00</updated>
+    <updated>2023-04-25T13:38:31+02:00</updated>
     <author>
         <name>Lucas Cervera</name>
     </author>
@@ -42,7 +42,7 @@
         <link href="https://innteresante.com/home/"/>
         <id>https://innteresante.com/home/</id>
 
-        <updated>2023-04-25T13:32:44+02:00</updated>
+        <updated>2023-04-25T13:36:14+02:00</updated>
             <summary>
                 <![CDATA[
                     Seleccionamos las innovaciones más interesantes y te las contamos de forma entretenida y fácil de entender Descubre la 💡 innovación y la 🧠inteligencia artificial con contenidos interesantes, sorprendentes y formativos sobre🔬ciencia 💻tecnología 🔔creatividad ⚒️emprendimiento y 🚀startups en youtube o linkedin ¿Qué es innteresante? Algunos vídeos…&hellip;
@@ -53,7 +53,7 @@
                 <h1 id="seleccionamos-las-innovaciones-más-interesantes-y-te-las-contamos-de-forma-entretenida-y-fácil-de-entender">Seleccionamos las <strong>inn</strong>ovaciones más in<strong>teresantes</strong> y te las contamos de forma entretenida y fácil de entender</h1>
 <h4 id="descubre-la-💡-innovación-y-la-🧠inteligencia-artificial-con-contenidos-interesantes-sorprendentes-y-formativos-sobre🔬ciencia-💻tecnología-🔔creatividad-⚒️emprendimiento-y-🚀startups-en-youtube-o-linkedin">Descubre la <strong>💡 innovación</strong> y la <strong>🧠inteligencia artificial</strong> con contenidos interesantes, sorprendentes y formativos sobre🔬ciencia 💻tecnología 🔔creatividad ⚒️emprendimiento y 🚀startups en <a href="https://www.youtube.com/c/lucascervera?sub_confirmation=1">youtube</a> o <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&amp;followMember=lucascervera">linkedin</a></h4>
 <hr>
-<iframe loading="lazy" width="220" height="220" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0px; background-color: transparent; width: 220px; height: 220px;" src="https://embeds.beehiiv.com/0e92d3e9-bc9b-40c3-b299-2a4032c4a511" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" data-responsive="false" ></iframe>
+<iframe loading="lazy" src="https://embeds.beehiiv.com/0e92d3e9-bc9b-40c3-b299-2a4032c4a511" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent; data-responsive="false" "></iframe>
 
 <h2 id="¿qué-es-innteresante">¿Qué es innteresante?</h2>
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/0yfS_Kaa_CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen data-responsive="false"></iframe>
@@ -108,16 +108,16 @@ Vectors: G<a href="https://www.freepik.com/vectors/goat-icon">oat icon vector cr
         <link href="https://innteresante.com/newsletter/"/>
         <id>https://innteresante.com/newsletter/</id>
 
-        <updated>2023-04-25T13:33:02+02:00</updated>
+        <updated>2023-04-25T13:38:31+02:00</updated>
             <summary>
                 <![CDATA[
-                    Suscríbete a nuestro newsletter y recibe nuestros vídeos en tu correo cada semana
+                    Suscríbete a nuestro newsletter y recibe nuestros vídeos en tu correo
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 class="align-left">Suscríbete a nuestro newsletter y recibe nuestros vídeos en tu correo cada semana</h1>
-<p class="align-left"> <iframe loading="lazy" width="220" height="332" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0px; background-color: transparent; width: 220px; height: 332px;" src="https://embeds.beehiiv.com/0e92d3e9-bc9b-40c3-b299-2a4032c4a511" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" data-responsive="false"></iframe>
+                <h1 class="align-left">Suscríbete a nuestro newsletter y recibe nuestros vídeos en tu correo</h1>
+<div class="post__iframe"><iframe loading="lazy" width="721" height="759" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0px; background-color: transparent; width: 721px; height: 759px;" src="https://embeds.beehiiv.com/0e92d3e9-bc9b-40c3-b299-2a4032c4a511" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" false=""></iframe></div>
             ]]>
         </content>
     </entry>
