@@ -9,15 +9,18 @@
          
         <meta name="generator" content="Publii Open-Source CMS for Static Site" />
 
-				<!-- Google Tag Manager -->
-				<script type="gdpr-blocker/analytics">
-					(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-						new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-						j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-						'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-					})(window,document,'script','dataLayer','G-KN64N6NYW9');
-				</script>
-				<!-- End Google Tag Manager -->
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+				<script 
+					type="gdpr-blocker/Analytics"
+					async 
+					src="https://www.googletagmanager.com/gtag/js?id=G-KN64N6NYW9"></script>
+				<script type="gdpr-blocker/Analytics">
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+				  gtag('config', 'G-KN64N6NYW9' , { 'anonymize_ip': true });
+				  
+				</script>				
 				
         <link rel="canonical" href="https://innteresante.com/">
         
@@ -316,22 +319,24 @@
                             checked />
                         <label for="pcb-group-0">Required</label>
                     </div>
-                </li><li class="pcb__group">
-                    <details>
-                        <summary class="pcb__group__title no-desc">
-                            analytics
-                        </summary>
-                        
-                    </details>
-                    <div class="pcb__popup__switch is-checked">
-                        <input 
-                            type="checkbox" 
-                            data-group-name=""
-                            id="pcb-group-1" 
-                            checked />
-                        <label for="pcb-group-1">analytics</label>
-                    </div>
                 </li>
+            <li class="pcb__group">
+                <details>
+                    <summary class="pcb__group__title no-desc">
+                        Analytics
+                    </summary>
+                    
+                </details>
+                <div class="pcb__popup__switch">
+                    <input 
+                        type="checkbox"
+                        data-group-name="analytics"
+                        id="analytics-cookies" />
+                    <label for="analytics-cookies">
+                        Analytics
+                    </label>
+                </div>
+            </li>
                     </ul>
                 </div>
 
