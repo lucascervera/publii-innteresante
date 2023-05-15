@@ -3,12 +3,29 @@
     <title>innteresante.com</title>
     <link href="https://innteresante.com/feed.xml" rel="self" />
     <link href="https://innteresante.com" />
-    <updated>2023-05-15T14:57:45+02:00</updated>
+    <updated>2023-05-15T15:11:36+02:00</updated>
     <author>
         <name>Lucas Cervera</name>
     </author>
     <id>https://innteresante.com</id>
 
+    <entry>
+        <title>videos inteligencia artificial</title>
+        <author>
+            <name>Lucas Cervera</name>
+        </author>
+        <link href="https://innteresante.com/videos-inteligencia-artificial/"/>
+        <id>https://innteresante.com/videos-inteligencia-artificial/</id>
+            <category term="Inteligencia artificial"/>
+
+        <updated>2023-05-15T15:05:33+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="1080" height="1080" style="width: 1080px; height: 1080px;" class="my-iframe" src="https://logseq.innteresante.com/#/page/inteligencia%20artificial" frameborder="0"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Formación</title>
         <author>
@@ -247,7 +264,7 @@
         <link href="https://innteresante.com/home/"/>
         <id>https://innteresante.com/home/</id>
 
-        <updated>2023-05-15T14:57:45+02:00</updated>
+        <updated>2023-05-15T15:11:36+02:00</updated>
             <summary>
                 <![CDATA[
                     La innovación, como siempre, avanza como nunca Seleccionamos las innovaciones más interesantes y te las contamos de forma entretenida y fácil de entender mediante vídeos cortos, sorprendentes y formativos sobre🔬ciencia 💻tecnología 🔔creatividad ⚒️emprendimiento y 🚀startups Vídeos en formato píldora publicados en Youtube (+1M de visualizaciones),&hellip;
@@ -269,8 +286,8 @@
 <td>Estamos viviendo un momento único. Cada día se lanzan al mercado <strong>nuevas aplicaciones</strong> que van a cambiar la forma en que trabajamos en <strong>todos los ámbitos profesionales</strong>. Te ayudamos a conocerlas y a sacarles partido.</td>
 </tr>
 <tr>
-<td><a href="https://logseq.innteresante.com/#/page/videos">vídeos sobre innovación</a></td>
-<td><a href="https://logseq.innteresante.com/#/page/inteligencia%20artificial">vídeos sobre inteligencia artificial</a></td>
+<td><a href="../videos">vídeos sobre innovación</a></td>
+<td><a href="../videos%20inteligencia%20artificial">vídeos sobre inteligencia artificial</a></td>
 </tr>
 </tbody></table>
 <iframe loading="lazy" src="https://embeds.beehiiv.com/0e92d3e9-bc9b-40c3-b299-2a4032c4a511" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent; data-responsive="false" "></iframe>
